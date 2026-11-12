@@ -8,7 +8,7 @@ The workbook uses Power Query for cleaning, an Excel Data Model to relate tables
 The data is from Luke Barousse's Excel Data Analytics course and contains real-world data science job postings from 2023. 
 
 ### Workbook File
-My final workbook is in [workbook/salary_analysis.xlsx]
+My final workbook is in [Salary Analysis](workbook/salary_analysis.xlxs)
 
 ### Excel Skills Used
 
@@ -44,7 +44,7 @@ The workbook contains four analysis sheets, each answering a specific question a
 
 #### 💰 Salary vs. Skills per Job - Scatter Chart
 
-![images/salary_skills.png](images/salary_dashboard.png)
+![images/salary_skills.png](images/salary_skills.png)
 
 - 🛠️ **Excel Features:** Utilized a scatter chart plotting median salary against skill per job for each job title.
 - 🎨 **Design Choice:** Scatter plot chosen to reveal the relationship (or lack of one) between the number of skills and salary.
@@ -53,7 +53,7 @@ The workbook contains four analysis sheets, each answering a specific question a
 
 #### 🌍 Median Salary US vs. Non-US - Comparison Table with Slicer
 
-![images/salary_analysis.png](mages/salary_analysis.png)
+![images/salary_analysis.png](images/salary_analysis.png)
 
 - 🛠️ **Excel Features:** Built a comparison table of median salary for data jobs across US, Non-US, and any selected country.
 - 🎛️ **Slicer Integration:** A country slicer sits beside the table for interactive filtering.
