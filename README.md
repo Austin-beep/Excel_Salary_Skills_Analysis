@@ -8,7 +8,7 @@ The workbook uses Power Query for cleaning, an Excel Data Model to relate tables
 The data is from Luke Barousse's Excel Data Analytics course and contains real-world data science job postings from 2023. 
 
 ### Workbook File
-My final workbook is in [Salary Analysis](workbook/salary_analysis.xlxs)
+My final workbook is in [Salary Analysis](workbook/salary_analysis.xlsx)
 
 ### Excel Skills Used
 
